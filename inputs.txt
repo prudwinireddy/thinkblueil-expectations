@@ -1,0 +1,7 @@
+Please see the attached documentation. Notice that I have created separate html 
+files for each piece that we hand off to Corp Services. 
+
+Also, notice all of the comments within the code.
+
+This zip files utilizes the code that Brenda provided us for Foundation 6.3.1
+We don't overwrite the custom.css coding. We add all of our new code inside app.css (this file can later be called "thinkblueil.css")
